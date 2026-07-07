@@ -1,6 +1,6 @@
-# 🔐 Password Strength Checker
+# Password Strength Checker
 
-> 📚 Tugas Hari 1 – Short Course AI & Blockchain (AI-Assisted Build Track)
+> Tugas Hari 1 – Short Course AI & Blockchain (AI-Assisted Build Track)
 
 Password Strength Checker adalah aplikasi berbasis web yang digunakan untuk mengevaluasi tingkat keamanan password secara **real-time** menggunakan HTML, CSS, dan JavaScript.
 
@@ -8,7 +8,7 @@ Aplikasi ini menganalisis password berdasarkan beberapa aturan keamanan, kemudia
 
 ---
 
-# 📖 Deskripsi
+# Deskripsi
 
 Password Strength Checker dibuat untuk membantu pengguna mengetahui tingkat keamanan password yang dibuat. Aplikasi akan mengevaluasi password secara langsung saat pengguna mengetik, kemudian memberikan indikator kekuatan password beserta saran untuk meningkatkannya.
 
@@ -16,24 +16,24 @@ Project ini dikembangkan sebagai tugas Hari 1 pada Short Course AI & Blockchain 
 
 ---
 
-# ✨ Fitur
+#  Fitur
 
-- 🎨 Tampilan modern (Glassmorphism UI)
-- 🌈 Animated Gradient Background
-- 📱 Responsive Design
-- 🔐 Password Strength Checker secara real-time
-- 👁️ Show / Hide Password
-- 📊 Animated Progress Bar
-- 💪 Indikator kekuatan password
+- Tampilan modern (Glassmorphism UI)
+-  Animated Gradient Background
+-  Responsive Design
+-  Password Strength Checker secara real-time
+-  Show / Hide Password
+-  Animated Progress Bar
+-  Indikator kekuatan password
   - Weak
   - Medium
   - Strong
   - Very Strong
-- 💡 Saran untuk meningkatkan keamanan password
+-  Saran untuk meningkatkan keamanan password
 
 ---
 
-# 🛠️ Teknologi
+#  Teknologi
 
 - HTML5
 - CSS3
@@ -41,7 +41,7 @@ Project ini dikembangkan sebagai tugas Hari 1 pada Short Course AI & Blockchain 
 
 ---
 
-# 🚀 Cara Menjalankan
+#  Cara Menjalankan
 
 1. Clone atau download repository ini.
 2. Buka folder project.
@@ -50,7 +50,7 @@ Project ini dikembangkan sebagai tugas Hari 1 pada Short Course AI & Blockchain 
 
 ---
 
-# 📷 Screenshot
+#  Screenshot
 
 ## Halaman Utama
 
@@ -82,7 +82,7 @@ Project ini dikembangkan sebagai tugas Hari 1 pada Short Course AI & Blockchain 
 
 ---
 
-# ⚙️ Cara Kerja Aplikasi
+#  Cara Kerja Aplikasi
 
 ```
 1. Pengguna memasukkan password
@@ -102,7 +102,7 @@ Project ini dikembangkan sebagai tugas Hari 1 pada Short Course AI & Blockchain 
 
 ---
 
-# 💻 Penjelasan Kode
+#  Penjelasan Kode
 
 ## 1. Struktur HTML
 
@@ -178,7 +178,7 @@ Fungsi ini akan dijalankan setiap kali pengguna mengetik atau menghapus karakter
 
 ---
 
-# 🤖 Penggunaan AI
+# Penggunaan AI
 
 Project ini dikembangkan dengan bantuan AI (Codex) sebagai coding assistant.
 
@@ -195,7 +195,7 @@ Seluruh kode yang dihasilkan AI telah dipelajari, diuji, diverifikasi, dan dipah
 
 ---
 
-# 📝 Refleksi Pembelajaran (Learning Reflection)
+# Refleksi Pembelajaran (Learning Reflection)
 
 Selama proses pengembangan aplikasi, saya menggunakan AI sebagai coding assistant untuk membantu membangun struktur awal aplikasi.
 
@@ -205,7 +205,7 @@ Melalui project ini saya belajar bahwa AI dapat mempercepat proses pengembangan 
 
 ---
 
-# 📚 Kesimpulan
+# Kesimpulan
 
 Melalui project ini saya mempelajari:
 
@@ -218,7 +218,7 @@ Melalui project ini saya mempelajari:
 
 ---
 
-# 👩‍💻 Pembuat
+# Pembuat
 
 **Andini Kemuning Prameswari**
 
