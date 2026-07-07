@@ -78,7 +78,7 @@ Project ini dikembangkan sebagai tugas Hari 1 pada Short Course AI & Blockchain 
 
 ## Password Sangat Kuat
 
-![Very Strong](assets/strong.png)
+![Very Strong](assets/very-strong.png)
 
 ---
 
